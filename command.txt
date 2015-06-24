@@ -1,0 +1,11 @@
+git init
+git clone
+git add .
+git status
+git remote
+git push origin master
+
+git branch
+git fetch
+git pull
+git merge
